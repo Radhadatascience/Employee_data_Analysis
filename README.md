@@ -1,2 +1,2 @@
 # Employee_data_Analysis
-Predict All possiable ways of Employee in a orgaization based on Dataset Given
+Predict All possiable ways of an Employees in a orgaization based on Datasets Given
